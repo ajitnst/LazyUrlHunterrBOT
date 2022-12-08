@@ -2,7 +2,7 @@
   <img src="https://telegra.ph/file/2b160d9765fe080c704d2.png" alt="Lazy Url Hunterr BOT  logo">
 </p>
 <h1 align="center">
-  <b> Lazy-URL-Hunterr_BOT </b>
+  <b> SR-Movies_BOT </b>
 </h1>
 
 ## ⚡️Features
