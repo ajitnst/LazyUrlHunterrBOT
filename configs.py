@@ -40,7 +40,7 @@ If You Want Your Own Bot Like This Then You Can Contact Our Developer.</b>
 """
 
     HOME_TEXT = """
-<b>Hello Baby ! {}😅,
+<b>Hello Friends ! {}😅,
 
 I'm the one and only fastest URL finder BOT. Add me to any Group and Give me Hunting rights !!
 
@@ -56,7 +56,7 @@ Don't be sad ! Your all urls are in safe Hand.
 
 
     START_MSG = """
-<b>Hello Baby ! {}😅,
+<b>Hello Friends ! {}😅,
 
 I'm the one and only fastest URL & post finder BOT. Add me to any Group and Give me Hunting rights !!
 
